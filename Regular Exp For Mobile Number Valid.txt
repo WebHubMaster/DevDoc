@@ -1,0 +1,7 @@
+Regular Exp For Mobile Number Validation
+/^[6-9]\d{9}$/
+
+Regular Exp For Indian Mobile Number Allowed Validation
+/^(?:\+91|91)?[6-9]\d{9}$/
+
+Note :- When Use Regular Exp Then The Value Of type: Number (Wrong) Use type: String (Right)
