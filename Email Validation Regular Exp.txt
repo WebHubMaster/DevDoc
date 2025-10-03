@@ -1,0 +1,5 @@
+Regular Exp For Email Validation
+/^[^\s@]+@[^\s@]+\.[^\s@]+$/
+
+Regular Exp For Only Gmail Account Allowed Validation
+/^[a-zA-Z0-9._%+-]+@gmail\.com$/
